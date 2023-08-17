@@ -1,3 +1,6 @@
 # Lab-Git1
-Rodrigo
-Cambios en repo remoto
+![Github logo](/Images/github-logo-vector.png)
+
+####Rodrigo Jiménez
+## Cambios en repo remoto 
+
